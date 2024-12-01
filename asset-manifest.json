@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/exchangery/static/css/main.c1245f37.css",
+    "main.js": "/exchangery/static/js/main.77a93e67.js",
+    "index.html": "/exchangery/index.html",
+    "main.c1245f37.css.map": "/exchangery/static/css/main.c1245f37.css.map",
+    "main.77a93e67.js.map": "/exchangery/static/js/main.77a93e67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1245f37.css",
+    "static/js/main.77a93e67.js"
+  ]
+}
